@@ -1,5 +1,5 @@
 
-#### <a href="#Telainicial">ir para o início</a>
+#### <a href="#Telainicial">Ir para o início</a>
 
 # Getting Started with Create React App
 
@@ -33,7 +33,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-# <a id="#Telainicial">Tela inicial</a>
+# <a id="Telainicial"></a>Tela inicial
 
 
 #### Este projeto foi desenvolvido para fins de estudo, e conceitos importantes do React.
