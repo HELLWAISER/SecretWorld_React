@@ -1,4 +1,5 @@
-[Ir para o início](#Telainicial)
+
+#### <a id="#Telainicial">ir para o início</a>
 
 # Getting Started with Create React App
 
